@@ -6,7 +6,7 @@
 
 - 📫  https://amaracode.com/
 
-- 📄  https://amaracode.com/
+- 📄  https://amaracode.com/resume
 
 
 
