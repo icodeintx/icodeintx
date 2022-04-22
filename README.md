@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @icodeintx (also known as Scott).  I live in Central Texas, USA and have been a web developer for 25+ years.  I am self-employeed @ AmaraCode LLC.  Most of my development background is in Microsoft .Net (and prior to .Net).  Additionally I enjoy learning new ways and new technologies.  
+- 👋 Hi, I’m @icodeintx (also known as Scott).  I live in Central Texas, USA and have been a developer for 25+ years.  I am a corporate developer.  Most of my development background is in Microsoft .Net (and prior to .Net).  Additionally I enjoy learning new ways and new technologies.  
 
-- 👀 I’m currently working on a Forex Trading system for my company and interested in new contracts as they come my way.  
+- 👀 I work all day at a corporate job so what is on here is for learning and fun.  
 
 - 💞️ I’m always looking to meet new people and collaborate on technology.
 
-- 📫  https://amaracode.com/
+- 📫  icodeintx@gmail.com
 
 - 📄  https://amaracode.com/resume
 
